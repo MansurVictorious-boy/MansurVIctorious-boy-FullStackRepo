@@ -5,7 +5,7 @@ package com.nt.main;
  */
 public class Arithmetic{
 	public long  sum(long a,long b) {
-	//add to numbers	
+	//add two numbers	
 		return a+b;
 	}
 	public long  sub(long a,long b) {
