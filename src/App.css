@@ -1,0 +1,19 @@
+.Moviesline{
+  display: grid;
+  grid-template-columns:repeat(5,auto) ;
+  gap: 10px;
+}
+h1{
+  text-align: center;
+  color: red;
+  text-transform: capitalize;
+}
+.Movies{
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  padding: 20px;
+  box-shadow: 2px 4px 6px red;
+}
